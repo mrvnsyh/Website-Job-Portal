@@ -77,6 +77,7 @@ This project is a full-featured job portal application built using the **MERN St
 
 ## Project Overview
 
+https://github.com/user-attachments/assets/85715c11-7036-45e7-a8bf-4adb232709ed
 
 ## Installation
 
